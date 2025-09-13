@@ -1,7 +1,7 @@
 ﻿<Window x:Class="AcceptXboxLive.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="FFmpeg GUI Wrapper" Height="650" Width="1000">
+        Title="Grangran Technology" Height="650" Width="1000">
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/> <!-- Input -->
